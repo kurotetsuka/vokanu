@@ -2,9 +2,14 @@ kohtu : 0
 -antu : 1
 neitu : 2
 seitu : 3
-ankotu? kantu? : 4
+kantu : 4
 
-tunu : numeric form
+tu : amount?
+tunu : numeric form | number
+
+kei : none | non-existant
+tan : some | existant
+ : many
 
 voka : expression
 nu : form (symbol) | trait
@@ -16,3 +21,7 @@ te-an : this one | me (i)
 
 to : that
 tonei : those two
+
+mu : decision | discernment
+shi : doer
+mushi : mind | decider
